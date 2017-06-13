@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+}
+body {
+    padding-top: 150px;
+}
+.header{
+    height:50px;
+    background:#337AB7;
+    color:#fff;
+    position:relative;
+    top:0px;
+    width:1381px;
+}
+.footer{
+    height:50px;
+    line-height:50px;
+    background:#333;
+    color:#fff;
+    width:100%;
+}
+
+.navbar-default .navbar-nav > li.clr2 a{
+        color:#ffffff;
+}
+.navbar-default .navbar-nav > li.clr2.active a{
+    color:#fff;
+    background: #204D73;
+}
+.navbar-default .navbar-nav > li.clr2 a:hover{
+    background: #337AB7;
+}
+
+.navbar-default{
+    background-color: #204D73;
+    font-size:18px;
+    border-color:none;
+}
+.navbar-default .navbar-brand {
+    color: #ffffff;
+    font-weight:bold;
+}
+.navbar-default .navbar-text {
+    color:#ffffff;
+}
+
+.pemisah-btnnav{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.navbar-right{
+	padding-top: 15px;
+}
+.filter{
+	margin-left: 10px;
+}
+.navbar-left{
+    margin-left: -105px;
+}
+.clr2{
+    padding-left: 20px;
+}
